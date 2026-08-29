@@ -1,6 +1,30 @@
 [
   {
     "category": "artist",
+    "country": "cl",
+    "chartType": "weekly",
+    "chartUrl": "https://charts.spotify.com/charts/view/artist-cl-weekly/latest",
+    "rank": "82",
+    "song": "Jimin",
+    "artists": "",
+    "streams": "",
+    "spotifyLink": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY",
+    "image": "https://i.scdn.co/image/ab67616100005174cf3a9c35db52ba44f3b921e3"
+  },
+  {
+    "category": "artist",
+    "country": "jp",
+    "chartType": "daily",
+    "chartUrl": "https://charts.spotify.com/charts/view/artist-jp-daily/latest",
+    "rank": "125",
+    "song": "Jimin",
+    "artists": "",
+    "streams": "",
+    "spotifyLink": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY",
+    "image": "https://i.scdn.co/image/ab67616100005174cf3a9c35db52ba44f3b921e3"
+  },
+  {
+    "category": "artist",
     "country": "jp",
     "chartType": "weekly",
     "chartUrl": "https://charts.spotify.com/charts/view/artist-jp-weekly/latest",
@@ -38,6 +62,18 @@
   {
     "category": "artist",
     "country": "sg",
+    "chartType": "daily",
+    "chartUrl": "https://charts.spotify.com/charts/view/artist-sg-daily/latest",
+    "rank": "75",
+    "song": "Jimin",
+    "artists": "",
+    "streams": "",
+    "spotifyLink": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY",
+    "image": "https://i.scdn.co/image/ab67616100005174cf3a9c35db52ba44f3b921e3"
+  },
+  {
+    "category": "artist",
+    "country": "sg",
     "chartType": "weekly",
     "chartUrl": "https://charts.spotify.com/charts/view/artist-sg-weekly/latest",
     "rank": "69",
@@ -52,7 +88,7 @@
     "country": "th",
     "chartType": "daily",
     "chartUrl": "https://charts.spotify.com/charts/view/artist-th-daily/latest",
-    "rank": "168",
+    "rank": "129",
     "song": "Jimin",
     "artists": "",
     "streams": "",
@@ -76,7 +112,7 @@
     "country": "tw",
     "chartType": "daily",
     "chartUrl": "https://charts.spotify.com/charts/view/artist-tw-daily/latest",
-    "rank": "179",
+    "rank": "178",
     "song": "Jimin",
     "artists": "",
     "streams": "",
